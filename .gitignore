@@ -1,0 +1,8 @@
+/venv
+/data
+/downloaded_images
+/flow_data
+/ml_data
+/rag
+site-packages/
+__pycache__/

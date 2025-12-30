@@ -1,0 +1,5 @@
+httpx==0.28.1
+numpy==2.3.3
+pandas==2.3.2
+Requests==2.32.5
+volcengine_python_sdk==4.0.3
